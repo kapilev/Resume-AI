@@ -1,0 +1,54 @@
+As an experienced Technical Human Resource Manager with a background in data science recruitment, I have conducted a comprehensive evaluation of **Md Sajid Raza’s** resume against the standard requirements for a **Data Analyst** position.
+
+Since the provided Job Description (JD) is the generic title "Data Analyst," I have evaluated the candidate against industry-standard expectations for entry-level to junior roles in this field.
+
+---
+
+### **1. Executive Summary**
+The candidate is a high-achieving Computer Science student (CGPA 8.9) with a graduation date of May 2026. He demonstrates a strong foundational grasp of the "Modern Data Stack" (Python, SQL, Power BI, Excel). His profile is characterized by a healthy balance between academic excellence, practical project work, and internship experience. He is an ideal candidate for **internships, co-ops, or graduate trainee programs**, though his 2026 graduation date may be a constraint for immediate full-time roles.
+
+---
+
+### **2. Technical Skills Gap Analysis**
+| Requirement | Candidate Proficiency | Assessment |
+| :--- | :--- | :--- |
+| **SQL** | Advanced (Joins, Window Functions, Optimization) | **Exceeds Expectations**: Inclusion of window functions and optimization shows a deeper-than-average understanding. |
+| **Python** | Proficient (Pandas, NumPy, Streamlit) | **Strong**: Moving beyond basic scripts into deployment (Streamlit) is a major plus. |
+| **Data Visualization** | Power BI (DAX, Data Modeling) | **Strong**: Knowledge of DAX and Data Modeling indicates he can build scalable reports, not just "pretty charts." |
+| **Spreadsheets** | MS Excel (Pivot, Power Query) | **Meets Expectations**: Essential for any analyst role. |
+| **Statistics** | Descriptive & Hypothesis Testing | **Meets Expectations**: Crucial for valid data storytelling. |
+| **ETL/Pipeline** | Automated ETL processes | **Strong**: Mentioning ETL in the Uber project shows an understanding of the data lifecycle. |
+
+---
+
+### **3. Professional Experience & Projects Evaluation**
+*   **Internship (Acaders):** A 4-month stint provides him with the "corporate vocabulary" needed to succeed. The mention of "optimizing SQL queries" during this period is a specific, high-value detail that HR managers look for.
+*   **Project Portfolio:**
+    *   *Text Analysis Platform:* Shows versatility. It demonstrates he can handle **unstructured data**, which is increasingly important.
+    *   *Uber/E-commerce Projects:* These are classic data analyst use cases. They prove he can handle large datasets and translate them into business insights (KPIs and trends).
+*   **AI Integration:** His certification in GenAI and Prompt Engineering suggests he is forward-thinking and likely to use AI tools to increase his productivity—a significant "soft" advantage in 2024-25.
+
+---
+
+### **4. Strengths**
+1.  **Academic Rigor:** A CGPA of 8.9/10 in a CSE program is an immediate indicator of discipline and cognitive ability.
+2.  **End-to-End Skillset:** He doesn’t just "analyze"; he shows he can scrape/extract (SQL/Web Scraping), clean (Pandas), and deploy (Streamlit/Power BI).
+3.  **Communication:** The resume is well-structured, clean, and uses action verbs. The "Data Storytelling" mention under skills is a key buzzword that suggests he understands the *purpose* of data is to influence decisions.
+
+---
+
+### **5. Areas for Improvement / Red Flags**
+1.  **Availability:** The most significant hurdle is the **May 2026 graduation date**. If the role is for an immediate full-time hire, he is technically disqualified. He should clearly state if he is looking for an internship or if he is available for part-time/remote work.
+2.  **Tooling Variety:** While Power BI is excellent, exposure to Tableau or a cloud environment (AWS/Azure/GCP) would make him more "enterprise-ready."
+3.  **Quantifiable Impact:** While he mentions "improving efficiency," adding a percentage (e.g., "Reduced reporting time by 30%") would make his accomplishments more "punchy" for a recruiter.
+
+---
+
+### **6. Final Verdict & Recommendation**
+
+*   **Role Match Score:** 90/100 (For an Internship/Junior Role); 40/100 (For an immediate Full-Time Senior Role due to graduation date).
+*   **Recommendation:** **Shortlist for Interview.**
+    *   *Focus for Interviewer:* Test his SQL Window functions and DAX logic. Ask him to explain the "business impact" of his Uber project.
+    *   *HR Note:* Confirm his availability. Is he seeking a summer 2025 internship or a long-term part-time engagement?
+
+**Closing Thought:** Md Sajid Raza is a "top-tier" student candidate. He has successfully bypassed the "beginner's trap" by focusing on data modeling and optimization rather than just basic syntax. He is highly hireable for any forward-looking data team.
