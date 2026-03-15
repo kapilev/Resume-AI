@@ -1,5 +1,8 @@
-Flask==3.0.0
-scikit-learn==1.3.2
-PyPDF2==3.0.1
-docx2txt==0.8
-numpy==1.26.4
+pyPDF2
+docx2txt
+flask
+numpy
+pandas
+scikit-learn
+flask-mysqldb
+mysql-connector-python

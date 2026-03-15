@@ -1,5 +1,8 @@
 import google.generativeai as genai
-genai.configure(api_key="AIzaSyDjOzaPbtVwOrhfRa4ULujAKo_2vxK3H5g")
+from dotenv import load_dotenv
+import os
+load_dotenv()
+genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
 for m in genai.list_models():
     if "generateContent" in m.supported_generation_methods:
